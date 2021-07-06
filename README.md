@@ -17,3 +17,7 @@
 
 ## Abra um PullRequest com suas alterações
 
+Oque estou achando do curso?
+
+Muito interessante!
+
